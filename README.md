@@ -9,3 +9,7 @@ Resolución de problemas sobre HTML5
   <li> Desarrollar aplicaciones web interactivas y amigables al usuario</li>
   </ul>
   
+  <h1>Resultados</h1>
+<ul>
+  <li> Como resultado de esta practica obtuve la creacion de una interfaz para una pagina web</li>
+  </ul>
